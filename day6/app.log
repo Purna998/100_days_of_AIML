@@ -1,0 +1,4 @@
+2026-01-30 16:25:46,667 - INFO - Program started
+2026-01-30 16:25:46,668 - WARNING - This is a warning message
+2026-01-30 16:25:46,668 - ERROR - This is an error message
+2026-01-30 16:25:46,668 - INFO - Program finished
